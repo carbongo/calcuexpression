@@ -34,7 +34,7 @@ A step-by-step series of examples that tell you how to get a development environ
 
 ## Releases
 
-We regularly release new versions of CalcuExpression with bug fixes, new features, and performance improvements. You can find all the releases on our GitHub repository under the [Releases](https://github.com/yourusername/CalcuExpression/releases) section.
+We regularly release new versions of CalcuExpression with bug fixes, new features, and performance improvements. You can find all the releases on our GitHub repository under the [Releases](https://github.com/carbongo/CalcuExpression/releases) section.
 
 To use a specific release:
 
